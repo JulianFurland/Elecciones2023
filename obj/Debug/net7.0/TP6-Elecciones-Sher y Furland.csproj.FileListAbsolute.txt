@@ -1,0 +1,39 @@
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\appsettings.Development.json
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\appsettings.json
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.staticwebassets.runtime.json
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.exe
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.deps.json
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.runtimeconfig.json
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.pdb
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\Dapper.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\System.Data.SqlClient.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\2023\Prog\Elecciones2023\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.csproj.AssemblyReference.cache
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.AssemblyInfoInputs.cache
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.AssemblyInfo.cs
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.csproj.CoreCompileInputs.cache
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.MvcApplicationPartsAssemblyInfo.cache
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.RazorAssemblyInfo.cache
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.RazorAssemblyInfo.cs
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.TP6-Elecciones-Sher y Furland.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.build.TP6-Elecciones-Sher y Furland.props
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP6-Elecciones-Sher y Furland.props
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP6-Elecciones-Sher y Furland.props
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets.pack.json
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets.build.json
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\staticwebassets.development.json
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\scopedcss\bundle\TP6-Elecciones-Sher y Furland.styles.css
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\scopedcss\projectbundle\TP6-Elecciones-Sher y Furland.bundle.scp.css
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.csproj.CopyComplete
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.dll
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\refint\TP6-Elecciones-Sher y Furland.dll
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.pdb
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.genruntimeconfig.cache
+Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\ref\TP6-Elecciones-Sher y Furland.dll
