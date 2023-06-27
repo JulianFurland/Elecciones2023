@@ -32,6 +32,7 @@ public class HomeController : Controller
        public IActionResult VerDetallePartido(int IdPartido)
     {
         ViewBag.Partido = DB.VerInfoPartido(IdPartido);
+        ViewBag.ListaCandidatos = DB.ListarCandidatos(IdPartido);
         return View();
     }
          public IActionResult VerDetalleCandidato(int IdCandidato)
@@ -48,12 +49,12 @@ public class HomeController : Controller
         [HttpPost]public IActionResult GuardarCandidato(Candidato can)
         {
             DB.AgregarCandidato(can);
-            return View("VerDetallePartido");
+            return RedirectToAction("VerDetallePartido");
         }
         public IActionResult EliminarCandidato(Candidato can)
         {
             DB.EliminarCandidato(can.IdCandidato);
-            return View("VerDetallePartido");
+            return RedirectToAction("VerDetallePartido");
         }
 
         public IActionResult Elecciones()

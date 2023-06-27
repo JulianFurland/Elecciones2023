@@ -8,18 +8,18 @@
     ".NETCoreApp,Version=v7.0": {
       "TP6-Elecciones-Sher y Furland/1.0.0": {
         "dependencies": {
-          "Dapper": "2.0.138",
+          "Dapper": "2.0.143",
           "System.Data.SqlClient": "4.8.5"
         },
         "runtime": {
           "TP6-Elecciones-Sher y Furland.dll": {}
         }
       },
-      "Dapper/2.0.138": {
+      "Dapper/2.0.143": {
         "runtime": {
           "lib/net5.0/Dapper.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.138.25557"
+            "fileVersion": "2.0.143.55328"
           }
         }
       },
@@ -106,12 +106,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Dapper/2.0.138": {
+    "Dapper/2.0.143": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-QfnstG3t1hQVKCwVDaMjK72O+B+Ognfcf5fYOFI60ELpxuwE0WGtaOOwqczcuPgU3QEDXq/3TTvOilCvwszRhg==",
-      "path": "dapper/2.0.138",
-      "hashPath": "dapper.2.0.138.nupkg.sha512"
+      "sha512": "sha512-Vh0U+Fins3IpS7APUlrzga3+1mswWngB5fZ0xj4w+FQR5JhJzA5uHV5rSepkahvmshNZUA0YcHtae9vFQpiVTw==",
+      "path": "dapper/2.0.143",
+      "hashPath": "dapper.2.0.143.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "type": "package",

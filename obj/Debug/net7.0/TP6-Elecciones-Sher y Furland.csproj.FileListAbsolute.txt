@@ -37,3 +37,42 @@ Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\refint\TP6-Elecciones-Sher y Furlan
 Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.pdb
 Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.genruntimeconfig.cache
 Z:\2023\Prog\Elecciones2023\obj\Debug\net7.0\ref\TP6-Elecciones-Sher y Furland.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\appsettings.Development.json
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\appsettings.json
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.staticwebassets.runtime.json
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.exe
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.deps.json
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.runtimeconfig.json
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\TP6-Elecciones-Sher y Furland.pdb
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\Dapper.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\System.Data.SqlClient.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Programación\Elecciones2023\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.csproj.AssemblyReference.cache
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.AssemblyInfoInputs.cache
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.AssemblyInfo.cs
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.csproj.CoreCompileInputs.cache
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.MvcApplicationPartsAssemblyInfo.cache
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.RazorAssemblyInfo.cache
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.RazorAssemblyInfo.cs
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.TP6-Elecciones-Sher y Furland.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.build.TP6-Elecciones-Sher y Furland.props
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP6-Elecciones-Sher y Furland.props
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP6-Elecciones-Sher y Furland.props
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets.pack.json
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets.build.json
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\staticwebassets.development.json
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\scopedcss\bundle\TP6-Elecciones-Sher y Furland.styles.css
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\scopedcss\projectbundle\TP6-Elecciones-Sher y Furland.bundle.scp.css
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.csproj.CopyComplete
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.dll
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\refint\TP6-Elecciones-Sher y Furland.dll
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.pdb
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\TP6-Elecciones-Sher y Furland.genruntimeconfig.cache
+Z:\Programación\Elecciones2023\obj\Debug\net7.0\ref\TP6-Elecciones-Sher y Furland.dll

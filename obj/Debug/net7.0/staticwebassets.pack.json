@@ -1,251 +1,295 @@
 {
   "Files": [
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP6-Elecciones-Sher y Furland.bundle.scp.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP6-Elecciones-Sher y Furland.bundle.scp.css",
       "PackagePath": "staticwebassets\\TP6-Elecciones-Sher y Furland.bundle.scp.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\css\\site.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\favicon.ico",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\imgs\\Argentina.png",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\Argentina.png",
       "PackagePath": "staticwebassets\\imgs\\Argentina.png"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\js\\site.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imgs\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\advincula.jpg",
+      "PackagePath": "staticwebassets\\imgs\\advincula.jpg"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\bgfdt.png",
+      "PackagePath": "staticwebassets\\imgs\\bgfdt.png"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\elnoba.jpg",
+      "PackagePath": "staticwebassets\\imgs\\elnoba.jpg"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\fdn.png",
+      "PackagePath": "staticwebassets\\imgs\\fdn.png"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\ibai.png",
+      "PackagePath": "staticwebassets\\imgs\\ibai.png"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\jxc.png",
+      "PackagePath": "staticwebassets\\imgs\\jxc.png"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\lla.png",
+      "PackagePath": "staticwebassets\\imgs\\lla.png"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\paola.jpg",
+      "PackagePath": "staticwebassets\\imgs\\paola.jpg"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\rodman.jpg",
+      "PackagePath": "staticwebassets\\imgs\\rodman.jpg"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\tate.jpg",
+      "PackagePath": "staticwebassets\\imgs\\tate.jpg"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\2023\\Prog\\Elecciones2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
