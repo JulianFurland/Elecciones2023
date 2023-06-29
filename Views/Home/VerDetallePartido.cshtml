@@ -16,12 +16,15 @@
     <h3>El partido tiene @ViewBag.Partido.CantidadSenadores senadores</h3>
     <h3>El partido tiene @ViewBag.Partido.CantidadDiputados disputados</h3>
     <h4>Sitio Web: @ViewBag.Partido.SitioWeb</h4>
+    <div class="wrapped">
     @foreach (Candidato can in ViewBag.ListaCandidatos)
-    {
-        <div class="divTarjeta">
-        <h3>@can.Postulación</h3>
-        <a href='@Url.Action("VerDetalleCandidato", new {IdCandidato = can.IdCandidato})' class="boton"><img src="/imgs/@can.Foto" alt="img" class="pfp"></a>
-    </div>
-    }
+        {
+            <div class="divTarjeta">
+                <h3>@can.Postulación</h3>
+                <a href='@Url.Action("VerDetalleCandidato", new {IdCandidato = can.IdCandidato})' class="boton"><img src="/imgs/@can.Foto" alt="img" class="pfp"></a>
+            </div>
+        }
+     <a href='@Url.Action("AgregarCandidato")' class="boton"><img src="/imgs/add.png" alt="img" class="pfp"></a>
+     </div>
 </body>
 </html>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "35wlq73oVSIr7ljofT4jDebrIk+ENwwNsED4F2a3140=",
+  "Hash": "G19acP8ISVIcDVt9orOyZ9IV2qMWS5mRSvkhkBDNARU=",
   "Source": "TP6-Elecciones-Sher y Furland",
   "BasePath": "_content/TP6-Elecciones-Sher y Furland",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\fonts\\EncodeSans.ttf",
+      "SourceId": "TP6-Elecciones-Sher y Furland",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Programación\\Elecciones2023\\wwwroot\\",
+      "BasePath": "_content/TP6-Elecciones-Sher y Furland",
+      "RelativePath": "fonts/EncodeSans.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\EncodeSans.ttf"
+    },
+    {
+      "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\add.png",
+      "SourceId": "TP6-Elecciones-Sher y Furland",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Programación\\Elecciones2023\\wwwroot\\",
+      "BasePath": "_content/TP6-Elecciones-Sher y Furland",
+      "RelativePath": "imgs/add.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\add.png"
     },
     {
       "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\advincula.jpg",
@@ -187,6 +221,23 @@
       "OriginalItemSpec": "wwwroot\\imgs\\ibai.png"
     },
     {
+      "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\julian.jpg",
+      "SourceId": "TP6-Elecciones-Sher y Furland",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Programación\\Elecciones2023\\wwwroot\\",
+      "BasePath": "_content/TP6-Elecciones-Sher y Furland",
+      "RelativePath": "imgs/julian.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\julian.jpg"
+    },
+    {
       "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\jxc.png",
       "SourceId": "TP6-Elecciones-Sher y Furland",
       "SourceType": "Discovered",
@@ -219,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\lla.png"
+    },
+    {
+      "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\maxi.jpeg",
+      "SourceId": "TP6-Elecciones-Sher y Furland",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Programación\\Elecciones2023\\wwwroot\\",
+      "BasePath": "_content/TP6-Elecciones-Sher y Furland",
+      "RelativePath": "imgs/maxi.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\maxi.jpeg"
     },
     {
       "Identity": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\paola.jpg",

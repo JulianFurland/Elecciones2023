@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\fonts\\EncodeSans.ttf",
+      "PackagePath": "staticwebassets\\fonts\\EncodeSans.ttf"
+    },
+    {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\Argentina.png",
       "PackagePath": "staticwebassets\\imgs\\Argentina.png"
     },
     {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\Thumbs.db",
       "PackagePath": "staticwebassets\\imgs\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\add.png",
+      "PackagePath": "staticwebassets\\imgs\\add.png"
     },
     {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\advincula.jpg",
@@ -41,12 +49,20 @@
       "PackagePath": "staticwebassets\\imgs\\ibai.png"
     },
     {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\julian.jpg",
+      "PackagePath": "staticwebassets\\imgs\\julian.jpg"
+    },
+    {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\jxc.png",
       "PackagePath": "staticwebassets\\imgs\\jxc.png"
     },
     {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\lla.png",
       "PackagePath": "staticwebassets\\imgs\\lla.png"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\maxi.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\maxi.jpeg"
     },
     {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\paola.jpg",
