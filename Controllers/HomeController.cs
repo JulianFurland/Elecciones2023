@@ -45,16 +45,30 @@ public class HomeController : Controller
         ViewBag.IdPartido = IdPartido;
         return View();
     }
+        public IActionResult AgregarPartido()
+    {   
+        return View();
+    }
 
         [HttpPost]public IActionResult GuardarCandidato(Candidato can)
         {
             DB.AgregarCandidato(can);
-            return RedirectToAction("VerDetallePartido");
+            return RedirectToAction("VerDetallePartido", new{IdPartido = can.IdPartido});
         }
-        public IActionResult EliminarCandidato(Candidato can)
+        public IActionResult EliminarCandidato(int IdPartido, int IdCandidato)
         {
-            DB.EliminarCandidato(can.IdCandidato);
-            return RedirectToAction("VerDetallePartido");
+            DB.EliminarCandidato(IdCandidato);
+            return RedirectToAction("VerDetallePartido", new{IdPartido = IdPartido});
+        }
+        [HttpPost]public IActionResult GuardarPartido(Partido par)
+        {
+            DB.AgregarPartido(par);
+            return RedirectToAction("Index");
+        }
+        public IActionResult EliminarPartido(int IdPartido, int IdCandidato)
+        {
+            DB.EliminarPartido(IdPartido);
+            return RedirectToAction("Index");
         }
 
         public IActionResult Elecciones()

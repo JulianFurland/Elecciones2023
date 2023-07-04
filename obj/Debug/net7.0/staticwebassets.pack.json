@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets\\imgs\\bgfdt.png"
     },
     {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\cbum.jpg",
+      "PackagePath": "staticwebassets\\imgs\\cbum.jpg"
+    },
+    {
+      "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\eliminar.png",
+      "PackagePath": "staticwebassets\\imgs\\eliminar.png"
+    },
+    {
       "Id": "Z:\\Programación\\Elecciones2023\\wwwroot\\imgs\\elnoba.jpg",
       "PackagePath": "staticwebassets\\imgs\\elnoba.jpg"
     },

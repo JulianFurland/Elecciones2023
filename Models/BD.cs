@@ -8,17 +8,30 @@ public static class DB
     {
         using (SqlConnection db = new SqlConnection(ConnectionString))
         {
-            db.Execute("INSERT INTO Candidato @Candidato", new {Candidato = can});
+            db.Execute("INSERT INTO Candidato(IdPartido, Nombre, Apellido, Foto, FechaNacimiento, Postulación) VALUES (@IdPartido, @Nombre, @Apellido, @Foto, @FechaNacimiento, @Postulación)", new {IdPartido = can.IdPartido, Nombre = can.Nombre, Apellido = can.Apellido, Foto = can.Foto, FechaNacimiento = can.FechaNacimiento, Postulación = can.Postulación});
         }
     }
     public static void EliminarCandidato(int IdCandidato)
     {
         using (SqlConnection db = new SqlConnection(ConnectionString))
         {
-            db.Execute("DELETE * FROM Candidato WHERE IdCandidato = @IdCandidato", new {IdCandidato = IdCandidato});
+            db.Execute("DELETE FROM Candidato WHERE IdCandidato = @IdCandidato", new {IdCandidato = IdCandidato});
         }
     }
-
+    public static void EliminarPartido(int IdPartido)
+    {
+        using (SqlConnection db = new SqlConnection(ConnectionString))
+        {
+            db.Execute("DELETE FROM Partido WHERE IdPartido = @IdPartido", new {IdPartido = IdPartido});
+        }
+    }
+     public static void AgregarPartido(Partido par)
+    {
+        using (SqlConnection db = new SqlConnection(ConnectionString))
+        {
+            db.Execute("INSERT INTO Partido(Nombre, Logo, SitioWeb, FechaFundacion, CantidadDiputados, CantidadSenadores) VALUES (@Nombre, @Logo, @SitioWeb, @FechaFundacion, @CantidadDiputados, @CantidadSenadores)", new {Nombre = par.Nombre, Logo = par.Logo, SitioWeb = par.SitioWeb, FechaFundacion = par.FechaFundacion, CantidadDiputados = par.CantidadDiputados, CantidadSenadores = par.CantidadSenadores});
+        }
+    }
     public static Partido VerInfoPartido(int IdPartido)
     {
         Partido partido = null;

@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Candidato";
+    ViewData["Title"] = @ViewBag.Candidato.Postulación;
 }
 <h1>@ViewData["Title"]</h1>
 <!DOCTYPE html>
@@ -10,6 +10,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    
+    <div>
+    <img src="/imgs/@ViewBag.Candidato.Foto" alt="img" class="pfp">
+    <h3> @ViewBag.Candidato.Nombre</h3>
+    <h3>@ViewBag.Candidato.Apellido</h3>
+    <h3>Nacido en: @ViewBag.Candidato.FechaNacimiento.ToShortDateString()</h3>
+    </div>
+
 </body>
 </html>
